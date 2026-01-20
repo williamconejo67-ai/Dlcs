@@ -1,0 +1,423 @@
+[EP01]
+Name_en_US = The Sims™ 4 Get to Work
+Name_es_ES = Los Sims™ 4 ¡A Trabajar!
+
+[EP02]
+Name_en_US = The Sims™ 4 Get Together
+Name_es_ES = Los Sims™ 4 ¿Quedamos?
+
+[EP03]
+Name_en_US = The Sims™ 4 City Living
+Name_es_ES = Los Sims™ 4 Urbanitas
+
+[EP04]
+Name_en_US = The Sims™ 4 Cats & Dogs
+Name_es_ES = Los Sims™ 4 Perros y Gatos
+
+[EP05]
+Name_en_US = The Sims™ 4 Seasons
+Name_es_ES = Los Sims™ 4 Y Las Cuatro Estaciones
+
+[EP06]
+Name_en_US = The Sims™ 4 Get Famous
+Name_es_ES = Los Sims™ 4 ¡Rumbo a la Fama!
+
+[EP07]
+Name_en_US = The Sims™ 4 Island Living
+Name_es_ES = Los Sims™ 4 Vida Isleña
+
+[EP08]
+Name_en_US = The Sims™ 4 Discover University
+Name_es_ES = Los Sims™ 4 Días de Universidad
+
+[EP09]
+Name_en_US = The Sims™ 4 Eco Lifestyle
+Name_es_ES = Los Sims™ 4 Vida Ecológica
+
+[EP10]
+Name_en_US = The Sims™ 4 Snowy Escape
+Name_es_ES = Los Sims™ 4 Escapada en la Nieve
+
+[EP11]
+Name_en_US = The Sims™ 4 Cottage Living
+Name_es_ES = Los Sims™ 4 Vida en el Pueblo
+
+[EP12]
+Name_en_US = The Sims™ 4 High School Years
+Name_es_ES = Los Sims™ 4 Años High School
+
+[EP13]
+Name_en_US = The Sims™ 4 Growing Together
+Name_es_ES = Los Sims™ 4 Creciendo en Familia
+
+[EP14]
+Name_en_US = The Sims™ 4 Horse Ranch
+Name_es_ES = Los Sims™ 4 Rancho de Caballos
+
+[EP15]
+Name_en_US = The Sims™ 4 For Rent
+Name_es_ES = Los Sims™ 4 Se Alquila
+
+[EP16]
+Name_en_US = The Sims™ 4 Lovestruck
+Name_es_ES = Los Sims™ 4 ¡Viva el Amor!
+
+[EP17]
+Name_en_US = The Sims™ 4 Life & Death
+Name_es_ES = Los Sims™ 4 Vida y Más Allá
+
+[EP18]
+Name_en_US = The Sims™ 4 Businesses & Hobbies
+Name_es_ES = Los Sims™ 4 Ocio y Negocio
+
+[EP19]
+Name_en_US = The Sims™ 4 Enchanted by Nature
+Name_es_ES = Los Sims™ 4 Naturaleza Encantada
+
+[EP20]
+Name_en_US = The Sims™ 4 Adventure Awaits
+Name_es_ES = Los Sims™ 4 ¡A la Aventura!
+
+[FP01]
+Name_en_US = Holiday Celebration Pack
+Name_es_ES = Pack Felices Fiestas
+
+[GP01]
+Name_en_US = The Sims™ 4 Outdoor Retreat
+Name_es_ES = Los Sims™ 4 De Acampada
+
+[GP02]
+Name_en_US = The Sims™ 4 Spa Day
+Name_es_ES = Los Sims™ 4 Día de Spa
+
+[GP03]
+Name_en_US = The Sims™ 4 Dine Out
+Name_es_ES = Los Sims™ 4 Escapada Gourmet
+
+[GP04]
+Name_en_US = The Sims™ 4 Vampires
+Name_es_ES = Los Sims™ 4 Vampiros
+
+[GP05]
+Name_en_US = The Sims™ 4 Parenthood
+Name_es_ES = Los Sims™ 4 Papás y Mamás
+
+[GP06]
+Name_en_US = The Sims™ 4 Jungle Adventure
+Name_es_ES = Los Sims™ 4 Aventura en la Selva
+
+[GP07]
+Name_en_US = The Sims™ 4 StrangerVille
+Name_es_ES = Los Sims™ 4 StrangerVille
+
+[GP08]
+Name_en_US = The Sims™ 4 Realm of Magic
+Name_es_ES = Los Sims™ 4 Y El Reino de la Magia
+
+[GP09]
+Name_en_US = The Sims™ 4 Star Wars™: Journey to Batuu
+Name_es_ES = Los Sims™ 4 Star Wars™: Viaje a Batuu
+
+[GP10]
+Name_en_US = The Sims™ 4 Dream Home Decorator
+Name_es_ES = Los Sims™ 4 Interiorismo
+
+[GP11]
+Name_en_US = The Sims™ 4 My Wedding Stories
+Name_es_ES = Los Sims™ 4 ¡Sí, Quiero!
+
+[GP12]
+Name_en_US = The Sims™ 4 Werewolves
+Name_es_ES = Los Sims™ 4 Licántropos
+
+[SP01]
+Name_en_US = The Sims™ 4 Luxury Party Stuff
+Name_es_ES = Los Sims™ 4 Fiesta Glamurosa Pack de Accesorios
+
+[SP02]
+Name_en_US = The Sims™ 4 Perfect Patio Stuff
+Name_es_ES = Los Sims™ 4 Patio de Ensueño Pack de Accesorios
+
+[SP03]
+Name_en_US = The Sims™ 4 Cool Kitchen Stuff
+Name_es_ES = Los Sims™ 4 Cocina Divina Pack de Accesorios
+
+[SP04]
+Name_en_US = The Sims™ 4 Spooky Stuff
+Name_es_ES = Los Sims™ 4 Escalofriante Pack de Accesorios
+
+[SP05]
+Name_en_US = The Sims™ 4 Movie Hangout Stuff
+Name_es_ES = Los Sims™ 4 Noche de Cine Pack de Accesorios
+
+[SP06]
+Name_en_US = The Sims™ 4 Romantic Garden Stuff
+Name_es_ES = Los Sims™ 4 Jardín Romántico Pack de Accesorios
+
+[SP07]
+Name_en_US = The Sims™ 4 Kids Room Stuff
+Name_es_ES = Los Sims™ 4 Cuarto de Niños Pack de Accesorios
+
+[SP08]
+Name_en_US = The Sims™ 4 Backyard Stuff
+Name_es_ES = Los Sims™ 4 Diversión en el Patio Pack de Accesorios
+
+[SP09]
+Name_en_US = The Sims™ 4 Vintage Glamour Stuff
+Name_es_ES = Los Sims™ 4 Glamour Vintage Pack de Accesorios
+
+[SP10]
+Name_en_US = The Sims™ 4 Bowling Night Stuff
+Name_es_ES = Los Sims™ 4 Noche de Bolos Pack de Accesorios
+
+[SP11]
+Name_en_US = The Sims™ 4 Fitness Stuff
+Name_es_ES = Los Sims™ 4 Fitness Pack de Accesorios
+
+[SP12]
+Name_en_US = The Sims™ 4 Toddler Stuff
+Name_es_ES = Los Sims™ 4 Infantes Pack de Accesorios
+
+[SP13]
+Name_en_US = The Sims™ 4 Laundry Day Stuff
+Name_es_ES = Los Sims™ 4 Día de Colada Pack de Accesorios
+
+[SP14]
+Name_en_US = The Sims™ 4 My First Pet Stuff
+Name_es_ES = Los Sims™ 4 Mi Primera Mascota Pack de Accesorios
+
+[SP15]
+Name_en_US = The Sims™ 4 Moschino Stuff
+Name_es_ES = Los Sims™ 4 Moschino Pack de Accesorios
+
+[SP16]
+Name_en_US = The Sims™ 4 Tiny Living Stuff Pack
+Name_es_ES = Los Sims™ 4 Minicasas Pack de Accesorios
+
+[SP17]
+Name_en_US = The Sims™ 4 Nifty Knitting
+Name_es_ES = Los Sims™ 4 Portentos del Punto
+
+[SP18]
+Name_en_US = The Sims™ 4 Paranormal Stuff Pack
+Name_es_ES = Los Sims™ 4 Fenómenos Paranormales Pack de Accesorios
+
+[SP20]
+Name_en_US = The Sims™ 4 Throwback Fit Kit
+Name_es_ES = Los Sims™ 4 Moda Retro - Kit
+
+[SP21]
+Name_en_US = The Sims™ 4 Country Kitchen Kit
+Name_es_ES = Los Sims™ 4 Cocina Campestre - Kit
+
+[SP22]
+Name_en_US = The Sims™ 4 Bust the Dust Kit
+Name_es_ES = Los Sims™ 4 Zafarrancho de Limpieza - Kit
+
+[SP23]
+Name_en_US = The Sims™ 4 Courtyard Oasis Kit
+Name_es_ES = Los Sims™ 4 Oasis en el Patio - Kit
+
+[SP24]
+Name_en_US = The Sims™ 4 Fashion Street Kit
+Name_es_ES = Los Sims™ 4 Fashion Street -Kit
+
+[SP25]
+Name_en_US = The Sims™ 4 Industrial Loft Kit
+Name_es_ES = Los Sims™ 4 Loft Industrial - Kit
+
+[SP26]
+Name_en_US = The Sims™ 4 Incheon Arrivals Kit
+Name_es_ES = Los Sims™ 4 Moda de Aeropuerto - Kit
+
+[SP28]
+Name_en_US = The Sims™ 4 Modern Menswear Kit
+Name_es_ES = Los Sims™ 4 Moda Masculina Moderna - Kit
+
+[SP29]
+Name_en_US = The Sims™ 4 Blooming Rooms Kit
+Name_es_ES = Los Sims™ 4 Decoración Vegetal - Kit
+
+[SP30]
+Name_en_US = The Sims™ 4 Carnaval Streetwear Kit
+Name_es_ES = Los Sims™ 4 Colores de Carnaval - Kit
+
+[SP31]
+Name_en_US = The Sims™ 4 Décor to the Max Kit
+Name_es_ES = Los Sims™ 4 Decoración Maximalista - Kit
+
+[SP32]
+Name_en_US = The Sims™ 4 Moonlight Chic Kit
+Name_es_ES = Los Sims™ 4 Noches Chic - Kit
+
+[SP33]
+Name_en_US = The Sims™ 4 Little Campers Kit
+Name_es_ES = Los Sims™ 4 Minicampistas - Kit
+
+[SP34]
+Name_en_US = The Sims™ 4 First Fits Kit
+Name_es_ES = Los Sims™ 4 Moda Mini - Kit
+
+[SP35]
+Name_en_US = The Sims™ 4 Desert Luxe Kit
+Name_es_ES = Los Sims™ 4 Oasis de Lujo - Kit
+
+[SP36]
+Name_en_US = The Sims™ 4 Pastel Pop Kit
+Name_es_ES = Los Sims™ 4 Pastel Pop - Kit
+
+[SP37]
+Name_en_US = The Sims™ 4 Everyday Clutter Kit
+Name_es_ES = Los Sims™ 4 Desorden Decorativo - Kit
+
+[SP38]
+Name_en_US = The Sims™ 4 Simtimates Collection Kit
+Name_es_ES = Los Sims™ 4 Moda Íntima - Kit
+
+[SP39]
+Name_en_US = The Sims™ 4 Bathroom Clutter Kit
+Name_es_ES = Los Sims™ 4 Objetos para el Baño - Kit
+
+[SP40]
+Name_en_US = The Sims™ 4 Greenhouse Haven Kit
+Name_es_ES = Los Sims™ 4 Invernadero Idílico - Kit
+
+[SP41]
+Name_en_US = The Sims™ 4 Basement Treasures Kit
+Name_es_ES = Los Sims™ 4 Tesoros del Sótano - Kit
+
+[SP42]
+Name_en_US = The Sims™ 4 Grunge Revival Kit
+Name_es_ES = Los Sims™ 4 Vuelta al Grunge - Kit
+
+[SP43]
+Name_en_US = The Sims™ 4 Book Nook Kit
+Name_es_ES = Los Sims™ 4 Rincón de Lectura - Kit
+
+[SP44]
+Name_en_US = The Sims™ 4 Poolside Splash Kit
+Name_es_ES = Los Sims™ 4 ¡Al Agua, Patos! - Kit
+
+[SP45]
+Name_en_US = The Sims™ 4 Modern Luxe Kit
+Name_es_ES = Los Sims™ 4 Lujo Moderno - Kit
+
+[SP46]
+Name_en_US = The Sims™ 4 Home Chef Hustle Stuff Pack
+Name_es_ES = Los Sims™ 4 Chef de Casa Pack de Accesorios
+
+[SP47]
+Name_en_US = The Sims™ 4 Castle Estate Kit
+Name_es_ES = Los Sims™ 4 Castillo con Clase - Kit
+
+[SP48]
+Name_en_US = The Sims™ 4 Goth Galore Kit
+Name_es_ES = Los Sims™ 4 Gusto Gótico - Kit
+
+[SP49]
+Name_en_US = The Sims™ 4 Crystal Creations Stuff Pack
+Name_es_ES = Los Sims™ 4 Creaciones Cristalinas Pack de Accesorios
+
+[SP50]
+Name_en_US = The Sims™ 4 Urban Homage Kit
+Name_es_ES = Los Sims™ 4 Homenaje Urbano - Kit
+
+[SP51]
+Name_en_US = The Sims™ 4 Party Essentials Kit
+Name_es_ES = Los Sims™ 4 Decoración Festiva - Kit
+
+[SP52]
+Name_en_US = The Sims™ 4 Riviera Retreat Kit
+Name_es_ES = Los Sims™ 4 Retiro en la Riviera - Kit
+
+[SP53]
+Name_en_US = The Sims™ 4 Cozy Bistro Kit
+Name_es_ES = Los Sims™ 4 Bistró Acogedor - Kit
+
+[SP54]
+Name_en_US = The Sims™ 4 Artist Studio Kit
+Name_es_ES = Los Sims™ 4 Estudio de Arte - Kit
+
+[SP55]
+Name_en_US = The Sims™ 4 Storybook Nursery Kit
+Name_es_ES = Los Sims™ 4 Cuarto de Cuentos - Kit
+
+[SP56]
+Name_en_US = The Sims™ 4 Sweet Slumber Party Kit
+Name_es_ES = Los Sims™ 4 Fiesta de Pijamas - Kit
+
+[SP57]
+Name_en_US = The Sims™ 4 Cozy Kitsch Kit
+Name_es_ES = Los Sims™ 4 Caprichos Kitsch - Kit
+
+[SP58]
+Name_en_US = The Sims™ 4 Comfy Gamer Kit
+Name_es_ES = Los Sims™ 4 Rincón Gamer - Kit
+
+[SP59]
+Name_en_US = The Sims™ 4 Secret Sanctuary Kit
+Name_es_ES = Los Sims™ 4 Santuario Secreto - Kit
+
+[SP60]
+Name_en_US = The Sims™ 4 Casanova Cave Kit
+Name_es_ES = Los Sims™ 4 Cuarto de Casanova - Kit
+
+[SP61]
+Name_en_US = The Sims™ 4 Refined Living Room Kit
+Name_es_ES = Los Sims™ 4 Salón Sofisticado - Kit
+
+[SP62]
+Name_en_US = The Sims™ 4 Business Chic Kit
+Name_es_ES = Los Sims™ 4 Elegancia Ejecutiva - Kit
+
+[SP63]
+Name_en_US = The Sims™ 4 Sleek Bathroom Kit
+Name_es_ES = Los Sims™ 4 Baño Elegante - Kit
+
+[SP64]
+Name_en_US = The Sims™ 4 Sweet Allure Kit
+Name_es_ES = Los Sims™ 4 Estilo Encantador - Kit
+
+[SP65]
+Name_en_US = The Sims™ 4 Restoration Workshop Kit
+Name_es_ES = Los Sims™ 4 Taller de Restauración - Kit
+
+[SP66]
+Name_en_US = The Sims™ 4 Golden Years Kit
+Name_es_ES = Los Sims™ 4 Años Dorados - Kit
+
+[SP67]
+Name_en_US = The Sims™ 4 Kitchen Clutter Kit
+Name_es_ES = Los Sims™ 4 Menaje de Cocina - Kit
+
+[SP68]
+Name_en_US = The Sims™ 4 SpongeBobs Kids Room Kit
+Name_es_ES = Los Sims™ 4 Kit Habitación Infantil de Bob Esponja
+
+[SP69]
+Name_en_US = The Sims™ 4 Autumn Apparel Kit
+Name_es_ES = Los Sims™ 4 Moda de Otoño - Kit
+
+[SP70]
+Name_en_US = The Sims™ 4 SpongeBobs House Kit
+Name_es_ES = Los Sims™ 4 Kit Casa de Bob Esponja
+
+[SP71]
+Name_en_US = The Sims™ 4 Grange Mudroom Kit
+Name_es_ES = Los Sims™ 4 Recibidor Rural - Kit
+
+[SP72]
+Name_en_US = The Sims™ 4 Essential Glam Kit
+Name_es_ES = Los Sims™ 4 Maquillaje con Glamour - Kit
+
+[SP73]
+Name_en_US = The Sims™ 4 Modern Retreat Kit
+Name_es_ES = Los Sims™ 4 Retiro Moderno - Kit
+
+[SP74]
+Name_en_US = The Sims™ 4 Garden to Table Kit
+Name_es_ES = Los Sims™ 4 De la Huerta a la Mesa - Kit
+
+[SP81]
+Name_en_US = The Sims™ 4 Prairie Dreams Kit
+Name_es_ES = Los Sims™ 4 Kit Sueños de Pradera
