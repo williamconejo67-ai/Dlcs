@@ -1,3 +1,7 @@
+[__Installer]
+Name_en_US = "DLC data must always be installed"
+Name_es_ES = "Datos de DLCs siempre se deben instalar"
+
 [EP01]
 Name_en_US = The Sims™ 4 Get to Work
 Name_es_ES = Los Sims™ 4 ¡A Trabajar!
