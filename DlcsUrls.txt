@@ -1,8 +1,6 @@
 # DlcsUrls.txt (ID|URL)
 # Release: v1.0.0
-
 __Installer|https://github.com/williamconejo67-ai/Dlcs/releases/download/v1.0.0/__Installer.zip
-
 EP01|https://github.com/williamconejo67-ai/Dlcs/releases/download/v1.0.0/EP01.zip
 EP02|https://github.com/williamconejo67-ai/Dlcs/releases/download/v1.0.0/EP02.zip
 EP03.001|https://github.com/williamconejo67-ai/Dlcs/releases/download/v1.0.0/EP03.zip.001
@@ -25,9 +23,7 @@ EP17|https://github.com/williamconejo67-ai/Dlcs/releases/download/v1.0.0/EP17.zi
 EP18|https://github.com/williamconejo67-ai/Dlcs/releases/download/v1.0.0/EP18.zip
 EP19|https://github.com/williamconejo67-ai/Dlcs/releases/download/v1.0.0/EP19.zip
 EP20|https://github.com/williamconejo67-ai/Dlcs/releases/download/v1.0.0/EP20.zip
-
 FP01|https://github.com/williamconejo67-ai/Dlcs/releases/download/v1.0.0/FP01.zip
-
 GP01|https://github.com/williamconejo67-ai/Dlcs/releases/download/v1.0.0/GP01.zip
 GP02|https://github.com/williamconejo67-ai/Dlcs/releases/download/v1.0.0/GP02.zip
 GP03|https://github.com/williamconejo67-ai/Dlcs/releases/download/v1.0.0/GP03.zip
@@ -40,7 +36,6 @@ GP09|https://github.com/williamconejo67-ai/Dlcs/releases/download/v1.0.0/GP09.zi
 GP10|https://github.com/williamconejo67-ai/Dlcs/releases/download/v1.0.0/GP10.zip
 GP11|https://github.com/williamconejo67-ai/Dlcs/releases/download/v1.0.0/GP11.zip
 GP12|https://github.com/williamconejo67-ai/Dlcs/releases/download/v1.0.0/GP12.zip
-
 SP01|https://github.com/williamconejo67-ai/Dlcs/releases/download/v1.0.0/SP01.zip
 SP02|https://github.com/williamconejo67-ai/Dlcs/releases/download/v1.0.0/SP02.zip
 SP03|https://github.com/williamconejo67-ai/Dlcs/releases/download/v1.0.0/SP03.zip
