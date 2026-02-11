@@ -1,6 +1,6 @@
 [__Installer]
 Name_en_US = "Always be installed"
-Name_es_ES = "Datos de DLCs siempre se deben instalar"
+Name_es_ES = "Siempre se debe instalar"
 
 [EP01]
 Name_en_US = The Sims™ 4 Get to Work
