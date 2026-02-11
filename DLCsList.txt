@@ -1,5 +1,5 @@
 [__Installer]
-Name_en_US = "DLC data must always be installed"
+Name_en_US = "Always be installed"
 Name_es_ES = "Datos de DLCs siempre se deben instalar"
 
 [EP01]
