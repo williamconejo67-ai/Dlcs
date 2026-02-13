@@ -82,6 +82,10 @@ Name_es_ES = Los Sims™ 4 Naturaleza Encantada
 Name_en_US = The Sims™ 4 Adventure Awaits
 Name_es_ES = Los Sims™ 4 ¡A la Aventura!
 
+[EP21]
+Name_en_US = The Sims™ 4 Royalty & Legacy
+Name_es_ES = Los Sims™ 4 Dinastías y Linajes
+
 [FP01]
 Name_en_US = Holiday Celebration Pack
 Name_es_ES = Pack Felices Fiestas
