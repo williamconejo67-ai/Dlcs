@@ -426,6 +426,14 @@ Name_es_ES = Los Sims™ 4 Retiro Moderno - Kit
 Name_en_US = The Sims™ 4 Garden to Table Kit
 Name_es_ES = Los Sims™ 4 De la Huerta a la Mesa - Kit
 
+[SP76]
+Name_en_US = The Sims™ 4 Silver Screen Style Kit
+Name_es_ES = Los Sims™ 4 Kit Estilo de Cine Clásico
+
+[SP77]
+Name_en_US = The Sims™ 4 Tea Time Solarium Kit
+Name_es_ES = Los Sims™ 4 Kit Hora del Té
+
 [SP81]
 Name_en_US = The Sims™ 4 Prairie Dreams Kit
 Name_es_ES = Los Sims™ 4 Kit Sueños de Pradera
