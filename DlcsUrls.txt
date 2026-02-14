@@ -1,6 +1,6 @@
 # DlcsUrls.txt (ID|URL)
 # Release: v1.0.0
-__Installer|https://github.com/williamconejo67-ai/Dlcs/releases/download/v1.0.0/__Installer.7z
+__Installer|https://github.com/williamconejo67-ai/Dlcs/releases/download/v1.0.0/__Installer.zip
 EP01|https://github.com/williamconejo67-ai/Dlcs/releases/download/v1.0.0/EP01.zip
 EP02|https://github.com/williamconejo67-ai/Dlcs/releases/download/v1.0.0/EP02.zip
 EP03.001|https://github.com/williamconejo67-ai/Dlcs/releases/download/v1.0.0/EP03.zip.001
@@ -110,6 +110,6 @@ SP71|https://github.com/williamconejo67-ai/Dlcs/releases/download/v1.0.0/SP71.zi
 SP72|https://github.com/williamconejo67-ai/Dlcs/releases/download/v1.0.0/SP72.zip
 SP73|https://github.com/williamconejo67-ai/Dlcs/releases/download/v1.0.0/SP73.zip
 SP74|https://github.com/williamconejo67-ai/Dlcs/releases/download/v1.0.0/SP74.zip
-SP76|https://github.com/williamconejo67-ai/Dlcs/releases/download/v1.0.0/SP76.7z
-SP77|https://github.com/williamconejo67-ai/Dlcs/releases/download/v1.0.0/SP77.7z
+SP76|https://github.com/williamconejo67-ai/Dlcs/releases/download/v1.0.0/SP76.zip
+SP77|https://github.com/williamconejo67-ai/Dlcs/releases/download/v1.0.0/SP77.zip
 SP81|https://github.com/williamconejo67-ai/Dlcs/releases/download/v1.0.0/SP81.zip
