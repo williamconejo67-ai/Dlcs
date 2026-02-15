@@ -23,8 +23,8 @@ EP17|https://github.com/williamconejo67-ai/Dlcs/releases/download/v1.0.0/EP17.zi
 EP18|https://github.com/williamconejo67-ai/Dlcs/releases/download/v1.0.0/EP18.zip
 EP19|https://github.com/williamconejo67-ai/Dlcs/releases/download/v1.0.0/EP19.zip
 EP20|https://github.com/williamconejo67-ai/Dlcs/releases/download/v1.0.0/EP20.zip
-EP21.001|https://github.com/williamconejo67-ai/Dlcs/releases/download/v1.0.0/EP21.z01
-EP21.002|https://github.com/williamconejo67-ai/Dlcs/releases/download/v1.0.0/EP21.zip
+EP21.001|https://github.com/williamconejo67-ai/Dlcs/releases/download/v1.0.0/EP21
+EP21.002|https://github.com/williamconejo67-ai/Dlcs/releases/download/v1.0.0/EP21
 FP01|https://github.com/williamconejo67-ai/Dlcs/releases/download/v1.0.0/FP01.zip
 GP01|https://github.com/williamconejo67-ai/Dlcs/releases/download/v1.0.0/GP01.zip
 GP02|https://github.com/williamconejo67-ai/Dlcs/releases/download/v1.0.0/GP02.zip
