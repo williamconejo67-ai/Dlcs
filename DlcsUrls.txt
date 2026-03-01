@@ -110,6 +110,8 @@ SP71|https://github.com/williamconejo67-ai/Dlcs/releases/download/v1.0.0/SP71.zi
 SP72|https://github.com/williamconejo67-ai/Dlcs/releases/download/v1.0.0/SP72.zip
 SP73|https://github.com/williamconejo67-ai/Dlcs/releases/download/v1.0.0/SP73.zip
 SP74|https://github.com/williamconejo67-ai/Dlcs/releases/download/v1.0.0/SP74.zip
+SP75|https://github.com/williamconejo67-ai/Dlcs/releases/download/v1.0.0/SP75.zip
 SP76|https://github.com/williamconejo67-ai/Dlcs/releases/download/v1.0.0/SP76.zip
 SP77|https://github.com/williamconejo67-ai/Dlcs/releases/download/v1.0.0/SP77.zip
 SP81|https://github.com/williamconejo67-ai/Dlcs/releases/download/v1.0.0/SP81.zip
+SP82|https://github.com/williamconejo67-ai/Dlcs/releases/download/v1.0.0/SP82.zip
