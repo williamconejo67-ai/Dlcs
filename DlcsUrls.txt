@@ -1,5 +1,5 @@
 # DlcsUrls.txt (ID|URL)
-# Release: v1.0.8
+# Release: v1.0.0
 __Installer|https://github.com/williamconejo67-ai/Dlcs/releases/download/v1.0.0/__Installer.zip
 EP01|https://github.com/williamconejo67-ai/Dlcs/releases/download/v1.0.0/EP01.zip
 EP02|https://github.com/williamconejo67-ai/Dlcs/releases/download/v1.0.0/EP02.zip
