@@ -446,6 +446,10 @@ Name_es_ES = The Sims™ 4 Kit de Moda del Baile de Máscaras de Lady Bridgerton
 Name_en_US = The Sims™ 4 Lady Bridgerton’s Masquerade Ball Digital Content
 Name_es_ES = The Sims™ 4 Lady Bridgerton: Salón de Baile de Máscaras
 
+[SP80]
+Name_en_US = The Sims™ 4 Music Room Kit
+Name_es_ES = Los Sims™ 4 Kit de sala de música
+
 [SP81]
 Name_en_US = The Sims™ 4 Prairie Dreams Kit
 Name_es_ES = Los Sims™ 4 Kit Sueños de Pradera
