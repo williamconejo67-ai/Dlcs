@@ -457,3 +457,11 @@ Name_es_ES = Los Sims™ 4 Kit Sueños de Pradera
 [SP82]
 Name_en_US = The Sims™ 4 Yard Charm Kit
 Name_es_ES = Los Sims™ 4 Kit El patio de mi casa
+
+[SP83]
+Name_en_US = The Sims™ 4 Mean Girls Capsule Kit
+Name_es_ES = Los Sims™ 4 Estilo Mean Girls - Kit
+
+[SP84]
+Name_en_US = The Sims™ 4 Clueless Capsule Kit
+Name_es_ES = Los Sims™ 4 Estilo Clueless - Kit
